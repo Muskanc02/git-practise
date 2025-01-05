@@ -1,3 +1,0 @@
-NameL Ironhacker
-Age: 25
-Favourite colour: Yellow
